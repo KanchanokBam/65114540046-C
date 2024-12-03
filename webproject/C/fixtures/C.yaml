@@ -1,0 +1,6 @@
+- model : C.Coures
+  pk : 1
+  flieds :
+    course_id : 1
+    Coures_name : eng
+    teacher :PP
